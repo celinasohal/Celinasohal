@@ -2,7 +2,7 @@
 
 I'm a Software Engineering Degree Apprentice at BT, currently in Year 2 of 4, building practical skills in networking, databases, cloud, security, and software engineering fundamentals.
 
-I enjoy creating useful solutions, learning new technologies, and documenting my work clearly so others can follow along. My long-term goal is to become self-employed and build digital products for businesses.
+I enjoy creating useful solutions, learning new technologies, and documenting my work clearly so others can understand and follow along. My long-term goal is to become self-employed and build digital products for businesses.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -43,7 +43,7 @@ I enjoy creating useful solutions, learning new technologies, and documenting my
 
 ## 📫 Connect
 
-- LinkedIn: add your profile URL here
+- LinkedIn: [Celina Sohal](https://www.linkedin.com/in/celina-sohal-51a51729a)
 - GitHub: [@celinasohal](https://github.com/celinasohal)
 
 ---
