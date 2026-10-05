@@ -2,7 +2,16 @@
 
 I'm a Software Engineering Degree Apprentice at BT, currently in Year 2 of 4, building practical skills in networking, databases, cloud, security, and software engineering fundamentals.
 
-I enjoy creating useful solutions, learning new technologies, and documenting my work clearly so others can understand and follow along. My long-term goal is to become self-employed and build digital products for businesses.
+I enjoy creating useful solutions, learning new technologies, and documenting my work clearly so others can follow along. My long-term goal is to become self-employed and build digital products for businesses.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+</p>
 
 ## 🔧 Technologies & Tools
 
@@ -19,7 +28,7 @@ I enjoy creating useful solutions, learning new technologies, and documenting my
 - Strengthening my cloud and networking knowledge
 - Creating real-world projects that solve practical problems
 
-## 🚀 Projects I'm Working On
+## 🚀 Projects I'm Building
 
 - Network simulations in Packet Tracer
 - Data clustering and classification workflows
@@ -34,7 +43,8 @@ I enjoy creating useful solutions, learning new technologies, and documenting my
 
 ## 📫 Connect
 
-Feel free to connect with me on LinkedIn or explore my repositories below.
+- LinkedIn: add your profile URL here
+- GitHub: [@celinasohal](https://github.com/celinasohal)
 
 ---
 
@@ -48,15 +58,4 @@ Feel free to connect with me on LinkedIn or explore my repositories below.
 
 <!--
 **celinasohal/Celinasohal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
